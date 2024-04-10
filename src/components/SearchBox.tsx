@@ -1,4 +1,4 @@
-import startButton from './../assets/start.png'
+import startButton from './../assets/start.svg'
 
 export function SearchBox() {
   return (
